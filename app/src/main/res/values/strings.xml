@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">cartao-de-visitas</string>
+    <string name="cartao_de_visita">Cartão de Visita</string>
+    <string name="novo_cartao">Novo Cartão</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">Email</string>
+    <string name="empresa">Empresa</string>
+    <string name="cor">Cor</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="tast_onAdd_success">Cartão de visita inserido com sucesso!</string>
+    <string name="compartilhar">Compartilhar</string>
+    <string name="botao_voltar_tela">Botão de voltar a tela</string>
+</resources>
